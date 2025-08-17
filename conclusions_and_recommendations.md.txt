@@ -1,0 +1,64 @@
+# Rajasthan Healthcare Accessibility Analysis: Final Results & Strategic Roadmap
+
+This report distills our comprehensive geospatial and demographic study of **healthcare accessibility in Rajasthan, India**, providing actionable recommendations supported by robust data and spatial analysis.
+
+## Key Insights
+
+### 1. State-Level Snapshot: Hidden Inequality
+
+- Rajasthan averages **5.90 hospitals per 100,000 people**—a figure that conceals dramatic differences between districts.
+- Facility types: **2,672 hospitals**, **1,088 clinics**, **285 doctors’ offices**.
+
+### 2. Hospital Distribution: Sharp Regional Imbalances
+
+- **Major Outliers**: Jaipur (913 hospitals), Alwar (239), Kota (210), Udaipur (188).
+- **Critical Shortages**: Pratapgarh (11 hospitals), Jaisalmer (27), Dhaulpur (40).
+
+### 3. Per-Capita Provision: Who Gets Access?
+
+| Tier          | District Example(s)               | People per Hospital |
+|---------------|----------------------------------|--------------------|
+| Poor Access   | Chittaurgarh, Dhaulpur, Jalor    | >120,000           |
+| Average       | Ganganagar, Banswara             | 30,000–40,000      |
+| Good Access   | Nagaur, Jaipur                   | <20,000            |
+
+- **Chittaurgarh**: Most underserved at **154,000 people/hospital**.
+
+### 4. Geography Matters: The Healthcare Desert Problem
+
+- **Sparse Districts**: Jaisalmer, Bikaner have **<0.001 hospitals/km²**, causing long travel times (e.g., Bikaner’s centroid is 26km from nearest hospital).
+- **Urban Advantage**: Jaipur (0.08 hospitals/km²), Kota (0.04/km²).
+- **Intra-district Gaps**: Many centers are far from remote populations.
+
+### 5. Emergency Care: Rajasthan’s Achilles’ Heel
+
+- **Zero facilities with 24/7 emergency services** in Bhilwara, Jaisalmer, Jhunjhunun, Bharatpur, Udaipur.
+- Even Jaipur has only **3 emergency-ready hospitals out of 858** (<0.4%).
+
+*Note: The number of emergency-capable hospitals in Jaipur derived from the dataset used in this project is lower than actual figures reported in official sources. The dataset may exclude private hospitals or recently upgraded facilities.*
+
+## Roadmap: Actionable, Data-Driven Recommendations
+
+### 1. Dual Investment Strategy
+
+- **Population Focus**: Build new hospitals in ‘Poor Access’ districts (Chittaurgarh, Dhaulpur, Jalor).
+- **Geography Focus**: In sprawling, low-density districts (Jaisalmer, Bikaner), set up smaller clinics in far-flung locations identified by mapping.
+
+### 2. Emergency Services Overhaul
+
+- Upgrade at least one hospital in every district to offer full, 24/7 emergency and trauma care.
+- First priority: districts currently without any emergency-capable facilities.
+
+### 3. Geospatial Intelligence for Planning
+
+- Develop an **interactive dashboard** combining hospital density maps and facility location heatmaps.
+- Mandate data-driven site selection for all new infrastructure—prioritizing places with highest need.
+
+### 4. Facility Mix & Workforce Incentives
+
+- Don’t just build hospitals: Equip and staff clinics for primary care, maternal health, and vaccinations in underserved areas.
+- Introduce incentives for healthcare professionals to set up in “Poor Access” or remote districts.
+
+---
+
+**By adopting these recommendations, Rajasthan can transform from reactive crisis management to a forward-thinking, equitable healthcare delivery system—making life-saving medical care accessible in every corner of the state.**

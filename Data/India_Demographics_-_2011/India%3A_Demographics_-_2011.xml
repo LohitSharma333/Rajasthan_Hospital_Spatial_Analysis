@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Demography</title>
+                <onlink>https://gisportal.niit-tech.in/esriportal/rest/services/INDIA/DemographicData/MapServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The Census 2011 is the 15th National census survey conducted by the Census Organization of India. Mr. C. Chandramouli is the Commissioner &amp;amp; Registrar General of the Indian 2011 Census. The 2011 Indian National Census has been conducted in 2 phases - house listing and population. The national census survey covered all the 28 states of the country and 7 Union territories including 640 districts, 497 cities, 5767 tehsils &amp;amp; over 6 lakh villages. Census demographic data contains information like Households, Population enumeration, Literacy, Sex ratio, Child sex ratio (0–6 age group), etc.Source links for the Data are given below:Census of India, 2011This web layer is offered by Esri India, for ArcGIS Online subscribers, If you have any questions or comments, please let us know via content@esri.in.</abstract>
+            <purpose>This layer provides India's district level demographic information of Census 2011.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Demography</themekey>
+                <themekey>Demographic</themekey>
+                <themekey>India</themekey>
+                <themekey>Census</themekey>
+                <themekey>Population</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Distribution of above data is as per the policy provided by the respective data sources (Creditors).Census of India, 2011</useconst>
+        <datacred>Esri India, Census of India</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20170919</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
